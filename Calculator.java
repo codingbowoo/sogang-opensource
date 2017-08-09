@@ -13,8 +13,13 @@ public class Calculator{
     return a+b;
   }
 
-  public static int minus(int a, int b){
-    return a-b;
+  public static int minus(int a, int b, Object GPU){
+    int result = 0;
+    if(GPU == null){
+      return a-b;
+    }else{
+      return a-b;
+    }
+    return result;
   }
-
 }
