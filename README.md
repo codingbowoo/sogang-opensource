@@ -7,3 +7,5 @@ open source seminar @ SGU Korea
 ## 2nd day
 - markdown practice (Use Haroopad)
 - pull, merge, conflict practice
+
+test
